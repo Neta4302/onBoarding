@@ -1,6 +1,8 @@
 # onBoarding
 In this project, I created a slideshow of five pages, onboarding carousel!
 
+### In case of oversized fonts, go to 'app_styles.dart' file to edit the font!
+
 ### In case of an error in debugging, try to run the following two commands in the terminal!
 
 ```
@@ -14,4 +16,3 @@ flutter pub get
 Then, the second is commanded for more Flutter packages.
 
 Enjoy!
-### In case of oversized fonts, go to 'app_styles.dart' file to edit the font!
