@@ -1,4 +1,6 @@
 # onBoarding
+In this project, I created a slideshow of five pages, onboarding carousel!
+
 ### In case of an error in debugging, try to run the following two commands in the terminal!
 
 ```
